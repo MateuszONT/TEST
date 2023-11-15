@@ -2,3 +2,4 @@
 clear
 clc
 
+%szkolenie2023
