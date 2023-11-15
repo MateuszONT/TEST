@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info File="data/globData.mat" GroupUUID="" Icon="" Name="globData" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="3bd1b985-de0c-4309-83c1-3a06fdc32ef2"/>
+</Info>
